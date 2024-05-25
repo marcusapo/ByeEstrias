@@ -1,0 +1,1 @@
+export type UserType = 'doctor' | 'pacient' | null
